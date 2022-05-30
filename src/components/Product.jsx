@@ -18,6 +18,7 @@ const Product = () => {
       </Tag>
       <Heading data-cy="product-title"></Heading>
       <Box data-cy="product-price"></Box>
+      <h3>i am product</h3>
     </Stack>
   );
 };
